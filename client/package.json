@@ -1,15 +1,14 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watchAll"
   },
-  "author": "2U",
-  "license": "UNLICENSED",
+  "author": "",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.15.0",
-    "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
     "@babel/plugin-transform-runtime": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
     "@babel/runtime": "^7.15.3",
@@ -25,6 +24,7 @@
     "workbox-webpack-plugin": "^6.2.4"
   },
   "dependencies": {
+    "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
     "code-mirror-themes": "^1.0.0",
     "idb": "^6.1.2",
     "workbox-cacheable-response": "^7.0.0",
