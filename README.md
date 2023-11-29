@@ -10,9 +10,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ThatZiro/Browser-Text-Editor/">
-    <img src="./README_Assets/README-Logo.png" alt="Logo" width="160" height="160">
-  </a>
 
 <h3 align="center">Brandon Barnes</h3>
 
@@ -26,18 +23,6 @@
 
 <h3 font size="1" align="right"><a href="https://thatziro.github.io/Browser-Text-Editor/" target="_blank">Visit Site🚀</a></h3>
 
-## Table of Contents
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#tech-stack">Tech Stack</a></li>
-    <li><a href="#sneak-peek">Sneak Peek</a></li>
-    <li><a href="#development">Development</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 ## Tech Stack
 
@@ -46,37 +31,6 @@
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## Sneak Peek
-
-<a name="sneak-peek"></a>
-![mockup720](./README_Assets/README-SneakPeak.png)
-
-### <a href="https://thatziro.github.io/Browser-Text-Editor/" target="_blank">Visit Site</a> 🚀
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Development
-
-<a name="development"></a>
-
-<details>
-  <summary  style="font-size:18px">Responsive Layouts</summary>
-  <img src="./README_Assets/README-phone-preview.png" alt="Logo" width="250">
-</details>
-<details>
-  <summary  style="font-size:18px">Flow Chart</summary>
-  <img src="./README_Assets/README-Chart-1.png" alt="Logo" width="500">
-</details>
-<details>
-  <summary style="font-size:18px">Layout Design</summary>
-  <img src="./README_Assets/README-Chart-2.png" alt="Logo" width="1000">
-</details>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 
