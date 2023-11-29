@@ -20,7 +20,7 @@
 </br>
 </br>
 
-<h3 font size="1" align="right"><a href="https://thatziro.github.io/Browser-Text-Editor/" target="_blank">Try it Now 🚀</a></h3>
+<h3 font size="1" align="right"><a href="https://jate-mklo.onrender.com/" target="_blank">Try it Now 🚀</a></h3>
 
 
 ## Tech Stack
