@@ -11,17 +11,16 @@
 <br />
 <div align="center">
 
-<h3 align="center">Brandon Barnes</h3>
+<h3 align="center">Online Text Editor with Webpack</h3>
 
-  <p align="center">Step into the world of JavaScript mastery with our interactive JavaScript Quiz! Whether you're a coding enthusiast or a seasoned developer, this quiz is designed to put your JavaScript knowledge to the test. Challenge yourself with a variety of thought-provoking questions and sharpen your coding skills as you go. Our user-friendly interface ensures a seamless experience, and you'll receive instant feedback on your answers. Take the plunge into the JavaScript universe and see how well you really know this versatile language. Are you up for the challenge?
-  </p>
-  <p> – Test your JavaScript knowledge today!</p>
+  <p align="center">Welcome to the Online Text Editor with Webpack, developed by Brandon Barnes. This web application is a versatile text editor that harnesses the power of Webpack to provide a seamless and efficient user experience. Whether you're a developer looking for a lightweight coding environment or a user in need of a simple yet powerful text editor, this tool has got you covered.</p>
+  <p> – Install it as a web app and elevate your editing experience!</p>
 
 </div>
 </br>
 </br>
 
-<h3 font size="1" align="right"><a href="https://thatziro.github.io/Browser-Text-Editor/" target="_blank">Visit Site🚀</a></h3>
+<h3 font size="1" align="right"><a href="https://thatziro.github.io/Browser-Text-Editor/" target="_blank">Try it Now 🚀</a></h3>
 
 
 ## Tech Stack
@@ -30,7 +29,16 @@
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
+
+## Key Features
+
+- **Web App Installation:** Enjoy the flexibility of installing this text editor as a web app for quick and easy access.
+
+- **Powered by Webpack:** The application leverages the capabilities of Webpack, ensuring efficient bundling and optimization of your editing environment.
+
+- **Seamless User Experience:** With a user-friendly interface, this text editor provides a seamless and enjoyable experience for both coding enthusiasts and casual users.
 
 ## Contact
 
